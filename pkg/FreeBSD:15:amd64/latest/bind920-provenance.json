@@ -1,0 +1,30 @@
+{
+  "architecture": "x86_64",
+  "fingerprint": "15aa2d9ebaf14adf726144291ccb7ec94ee10e8d3f0898555561b20d250566d2",
+  "freebsd_release": "15.1",
+  "package_creator": {
+    "abi": "FreeBSD:15:amd64",
+    "filename": "pkg-2.3.1_1.pkg",
+    "name": "pkg",
+    "origin": "ports-mgmt/pkg",
+    "pkg_static_sha256": "9636e459feac6e45b83cbe087a8a2e7e5e56235ca5fffa91acf129f4456911ab",
+    "sha256": "cac4fba478adbaffdcccb3c3ef80899c85d88ca45b3bf6b47b5b54e064512d94",
+    "version": "2.3.1_1"
+  },
+  "packages": {
+    "bind-tools": {
+      "filename": "bind-tools-9.20.26_2.pkg",
+      "name": "bind-tools",
+      "origin": "dns/bind-tools",
+      "version": "9.20.26_2"
+    },
+    "bind920": {
+      "filename": "bind920-9.20.26_2.pkg",
+      "name": "bind920",
+      "origin": "dns/bind920",
+      "version": "9.20.26_2"
+    }
+  },
+  "schema": 2,
+  "series": "26.7"
+}
