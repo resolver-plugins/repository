@@ -1,0 +1,32 @@
+{
+  "bind": {
+    "architecture": "x86_64",
+    "fingerprint": "15aa2d9ebaf14adf726144291ccb7ec94ee10e8d3f0898555561b20d250566d2",
+    "freebsd_release": "15.1"
+  },
+  "build": {
+    "core_commit": "08d6a784769aceb6334731d5eae7070a9e48603d",
+    "freebsd_release": "15.1",
+    "tools_tag": "26.7.1",
+    "upstream_commit": "70399a6037a717a6497086659b5ca57728c77220"
+  },
+  "package_abi": "FreeBSD:15:amd64",
+  "package_creator": {
+    "abi": "FreeBSD:15:amd64",
+    "filename": "pkg-2.3.1_1.pkg",
+    "name": "pkg",
+    "origin": "ports-mgmt/pkg",
+    "pkg_static_sha256": "9636e459feac6e45b83cbe087a8a2e7e5e56235ca5fffa91acf129f4456911ab",
+    "sha256": "cac4fba478adbaffdcccb3c3ef80899c85d88ca45b3bf6b47b5b54e064512d94",
+    "version": "2.3.1_1"
+  },
+  "packages": {
+    "bind-tools-9.20.26_2.pkg": "2584d4e2ede548e8ada54870835092e613ebc3e1bd75498faaf58658cbf5ad5c",
+    "bind920-9.20.26_2.pkg": "a7ee6bef8e2b0593c6baebf11374beaf40b4274107c815a1cb657d0d8687a9a2",
+    "os-bind-rp-26.7_1.pkg": "e32efdccc1c54b00779d0c7ac19e6b6c6be36ad2715f89d8fb1ea88395c8c737"
+  },
+  "plugin_version": "26.7_1",
+  "schema": 3,
+  "series": "26.7",
+  "source_commit": "ca9e4b4ecc716a857f0485564ec804400f755112"
+}
