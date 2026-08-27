@@ -23,10 +23,10 @@
   "packages": {
     "bind-tools-9.20.26_2.pkg": "7eca86ffc5453916a03d7f9805437cca94b2a46c243c53782b35aab01cc7c188",
     "bind920-9.20.26_2.pkg": "8deb5aea354df0fb809eceb9b9337bbd3bfb54e4b57a97663098da1ba540c4ee",
-    "os-bind-rp-26.1_1.pkg": "eb4bf359f94e09301004adf3e71d660dc343eacf671c543ff3a99262a70284d3"
+    "os-bind-rp-26.1_5.pkg": "1e854993c293b91176090299cd8d99f8108153660803f7ef5ef8c9f09e69a040"
   },
-  "plugin_version": "26.1_1",
+  "plugin_version": "26.1_5",
   "schema": 3,
   "series": "26.1",
-  "source_commit": "f58e9978d5ab4e1b7d32c9af3a3e1629b5f92d40"
+  "source_commit": "1734eeaf47a4d151f33c459c1a6d483d0f4e6ccd"
 }
