@@ -9,6 +9,6 @@ upstream_commit=70399a6037a717a6497086659b5ca57728c77220
 core_commit=08d6a784769aceb6334731d5eae7070a9e48603d
 tools_tag=26.7.1
 freebsd_release=15.1
-source_commit=bf85d1806ddf1cc6bc67274d70f178b89e202f0b
+source_commit=8f283fc7821d4edb5b462b52c948820001dac965
 pkg_creator=2.3.1_1
 pkg_creator_sha256=cac4fba478adbaffdcccb3c3ef80899c85d88ca45b3bf6b47b5b54e064512d94
