@@ -1,6 +1,7 @@
 {
   "architecture": "x86_64",
-  "fingerprint": "90dcb2860594570a08a58caa588e669d1ed67ad4e96e943efdec9f1d09eea848",
+  "build_recipe_sha256": "cc9ff8606001f351002747d7927040e2a3990e0c18e129a89f97dd911bd28c57",
+  "fingerprint": "09ad9acf74270a4b0d5f44d4b75e4cc0620453183730122e7e5630646fd27c0e",
   "freebsd_release": "15.1",
   "package_creator": {
     "abi": "FreeBSD:15:amd64",
@@ -25,6 +26,6 @@
       "version": "9.20.27"
     }
   },
-  "schema": 2,
+  "schema": 3,
   "series": "26.7"
 }
