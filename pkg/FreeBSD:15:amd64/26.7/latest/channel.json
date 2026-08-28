@@ -1,7 +1,7 @@
 {
   "bind": {
     "architecture": "x86_64",
-    "fingerprint": "15aa2d9ebaf14adf726144291ccb7ec94ee10e8d3f0898555561b20d250566d2",
+    "fingerprint": "90dcb2860594570a08a58caa588e669d1ed67ad4e96e943efdec9f1d09eea848",
     "freebsd_release": "15.1"
   },
   "build": {
@@ -10,23 +10,24 @@
     "tools_tag": "26.7.1",
     "upstream_commit": "70399a6037a717a6497086659b5ca57728c77220"
   },
+  "control_commit": "c5ab716930d0e30c8579a9f133947db5fcfe76fe",
   "package_abi": "FreeBSD:15:amd64",
   "package_creator": {
     "abi": "FreeBSD:15:amd64",
     "filename": "pkg-2.3.1_1.pkg",
     "name": "pkg",
     "origin": "ports-mgmt/pkg",
-    "pkg_static_sha256": "9636e459feac6e45b83cbe087a8a2e7e5e56235ca5fffa91acf129f4456911ab",
-    "sha256": "cac4fba478adbaffdcccb3c3ef80899c85d88ca45b3bf6b47b5b54e064512d94",
+    "pkg_static_sha256": "406774d610e27f83cbfdb30a6d711e9d4deff25cc0e67c8f08c6294649b91a36",
+    "sha256": "11f4eeb2e93b3bf621d5e9a5dbe42d5b748e2462168571a4fa93799d8e18cbb7",
     "version": "2.3.1_1"
   },
   "packages": {
-    "bind-tools-9.20.26_2.pkg": "2584d4e2ede548e8ada54870835092e613ebc3e1bd75498faaf58658cbf5ad5c",
-    "bind920-9.20.26_2.pkg": "a7ee6bef8e2b0593c6baebf11374beaf40b4274107c815a1cb657d0d8687a9a2",
-    "os-bind-rp-26.7_5.pkg": "a3907e6897da67828919546d97944de3f981a642a47a183f826ac3f0c3eabb5d"
+    "bind-tools-9.20.27.pkg": "578e226c3947885541334b5d5990c2da230c30daecab960a43ffcc779b9536a2",
+    "bind920-9.20.27.pkg": "7df8735e0c6b5a2fb5c270de60c72279b09667bafee8c0644df10dbc7123bd8e",
+    "os-bind-rp-26.7_5.pkg": "1226131e697d3ddeaa6d1a67ae1ff5aee858a56c15263f4e095e2895e436f838"
   },
   "plugin_version": "26.7_5",
-  "schema": 3,
+  "schema": 4,
   "series": "26.7",
   "source_commit": "8f283fc7821d4edb5b462b52c948820001dac965"
 }
