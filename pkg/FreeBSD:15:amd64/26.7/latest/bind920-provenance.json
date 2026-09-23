@@ -1,7 +1,7 @@
 {
   "architecture": "x86_64",
   "build_recipe_sha256": "cc9ff8606001f351002747d7927040e2a3990e0c18e129a89f97dd911bd28c57",
-  "fingerprint": "09ad9acf74270a4b0d5f44d4b75e4cc0620453183730122e7e5630646fd27c0e",
+  "fingerprint": "2307d0e965ed31033f80bc728f2d6c1c5f9836ca56973c6dcc0091f67c22d0eb",
   "freebsd_release": "15.1",
   "package_creator": {
     "abi": "FreeBSD:15:amd64",
@@ -9,7 +9,7 @@
     "name": "pkg",
     "origin": "ports-mgmt/pkg",
     "pkg_static_sha256": "406774d610e27f83cbfdb30a6d711e9d4deff25cc0e67c8f08c6294649b91a36",
-    "sha256": "11f4eeb2e93b3bf621d5e9a5dbe42d5b748e2462168571a4fa93799d8e18cbb7",
+    "sha256": "20148990850075a716feb0b4c5fc9a603ebc7f93d30b238bac428c856c4f5fad",
     "version": "2.3.1_1"
   },
   "packages": {
