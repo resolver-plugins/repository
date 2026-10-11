@@ -1,0 +1,36 @@
+{
+  "bind": {
+    "architecture": "x86_64",
+    "fingerprint": "e609cb33a4f219fff614af0782e16d573f1bb6d19fb6691a8503418cd99b5fcc",
+    "freebsd_release": "15.1"
+  },
+  "build": {
+    "core_commit": "08d6a784769aceb6334731d5eae7070a9e48603d",
+    "freebsd_release": "15.1",
+    "tools_tag": "26.7.1",
+    "upstream_commit": "70399a6037a717a6497086659b5ca57728c77220"
+  },
+  "control_commit": "e4d80fe3bb0f115afe9464fa2cd444c27edfe8e5",
+  "creator_source": {
+    "commit": "b5a9a4a84eb0d58a71fbcfc7c37bfce9f2a5e1b7",
+    "path": "ports-mgmt/pkg",
+    "release": "26.7.1",
+    "repository": "https://github.com/opnsense/ports.git"
+  },
+  "package_abi": "FreeBSD:15:amd64",
+  "package_creator": {
+    "abi": "FreeBSD:15:amd64",
+    "name": "pkg",
+    "origin": "ports-mgmt/pkg",
+    "version": "2.3.1_1"
+  },
+  "packages": {
+    "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
+    "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
+    "os-bind-rp-26.7_7.pkg": "c3d461819f3bc831f0816a484dc541572182bdeb7e0286d6966e8667b2dbb9f1"
+  },
+  "plugin_version": "26.7_7",
+  "schema": 5,
+  "series": "26.7",
+  "source_commit": "d64e833a0916e27e15472db0513fc3ee426131c1"
+}
