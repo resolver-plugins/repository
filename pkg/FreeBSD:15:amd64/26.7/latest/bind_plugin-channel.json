@@ -1,20 +1,20 @@
 {
   "assets": {
-    "build-metadata.txt": "80b18fe3aff3eccd87acbf842d06aa05386b32e9ee9352564ca0b3de65136d15",
-    "creator-target.json": "17f7f45841c0fc69dce9a59caeb363d63d6b1fd0044c37645fd0858b4d8fa876",
-    "data.pkg": "6f1fcd92e9f489db16de80497c44fc888e9470317a805f1e39f5790940212e28",
-    "data.tzst": "6f1fcd92e9f489db16de80497c44fc888e9470317a805f1e39f5790940212e28",
+    "build-metadata.txt": "4fc80365b48631aa9ff0f8f17f8f25454bfedf90c3b7cbd8fbaa007c34868827",
+    "creator-target.json": "5a4622fea2f27dd378c96869fa1ce6b6b9a80f25260e56eadb338d7b93701261",
+    "data.pkg": "921b89208cfc1e3209ea79f70c478e8f9208027b13cc915ca75daa496f6f968f",
+    "data.tzst": "921b89208cfc1e3209ea79f70c478e8f9208027b13cc915ca75daa496f6f968f",
     "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
     "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
-    "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029",
-    "packagesite.pkg": "154a20c2e9d8775616ade61d10c22c65ee09741c076ea33fc38e1ff79eaad60d",
-    "packagesite.tzst": "154a20c2e9d8775616ade61d10c22c65ee09741c076ea33fc38e1ff79eaad60d",
-    "plugin-build-inputs.json": "5a22eecc83a9fc18f64b28669aebdc87b32702c30a91583521a93bfd5bebf48e",
+    "os-bind-rp-26.7_8.pkg": "8d081da1cf2d2b5f8f0b05b8a157364f87597671c4521aecc95ddcacf0387a50",
+    "packagesite.pkg": "564812295da3be63291d02e081cbc879d95e123ef3c10edc1d1087f0ea01b64a",
+    "packagesite.tzst": "564812295da3be63291d02e081cbc879d95e123ef3c10edc1d1087f0ea01b64a",
+    "plugin-build-inputs.json": "b213f37bd6370d76a4470db9016c0a7a416490c5e1526df980fbf17573797917",
     "plugin-package.mk": "45c603a4f25d0f09ab7a8042c030e08c3d67ddb3a6640e66f0a3143dfa8fd0cf",
     "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
     "upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2"
   },
-  "build_fingerprint": "914171962edd1e8065a9779f651b86e0393d99e008525c3e486ba272fce3cb16",
+  "build_fingerprint": "61ff7477a9c3ed93d5abfc6519493f71b2d7589ef845cd6868b41c540135e07a",
   "built_against_runtime": {
     "fingerprint": "e609cb33a4f219fff614af0782e16d573f1bb6d19fb6691a8503418cd99b5fcc",
     "packages": {
@@ -24,7 +24,7 @@
     "snapshot_tag": "pkg-26.7-bind-runtime-9.20.27-e609cb33a4f219fff614af0782e16d573f1bb6d19fb6691a8503418cd99b5fcc",
     "version": "9.20.27"
   },
-  "control_commit": "53c2b487cfe65fa4c3fa4bce4720b91b2641e220",
+  "control_commit": "bf461b19d867127435104db5e06b89ab6d181891",
   "creator_source": {
     "commit": "b5a9a4a84eb0d58a71fbcfc7c37bfce9f2a5e1b7",
     "path": "ports-mgmt/pkg",
@@ -40,7 +40,7 @@
     "version": "2.3.1_1"
   },
   "packages": {
-    "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029"
+    "os-bind-rp-26.7_8.pkg": "8d081da1cf2d2b5f8f0b05b8a157364f87597671c4521aecc95ddcacf0387a50"
   },
   "plugin_version": "26.7_8",
   "schema": 1,
