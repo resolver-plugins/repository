@@ -2,13 +2,13 @@
   "assets": {
     "bind-tools-9.20.27.pkg": "2f3986ec42af940fbfdb78c152821ceb61284725da864699cd686e71dde37440",
     "bind920-9.20.27.pkg": "6e40e9b06d3ff3c959641625830ca27b9242121081b04b61a1f6aea1552ed7e1",
-    "bind_plugin-build-metadata.txt": "4fc80365b48631aa9ff0f8f17f8f25454bfedf90c3b7cbd8fbaa007c34868827",
-    "bind_plugin-channel.json": "2de8cd90d48471e2132c5a940948e6fdb0a4eb52d86783f124b18c3e5fb3f8dd",
+    "bind_plugin-build-metadata.txt": "15d5f1ac6d6ce74a0edd5f8d26b1815949e17a5144031df4c341679040b7e7ee",
+    "bind_plugin-channel.json": "194dbf68805bd386402614cb45ba58f777a34bf367b618f19f9cef3399d82b54",
     "bind_plugin-creator-target.json": "5a4622fea2f27dd378c96869fa1ce6b6b9a80f25260e56eadb338d7b93701261",
     "bind_plugin-meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
     "bind_plugin-meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
-    "bind_plugin-plugin-build-inputs.json": "b213f37bd6370d76a4470db9016c0a7a416490c5e1526df980fbf17573797917",
-    "bind_plugin-plugin-package.mk": "45c603a4f25d0f09ab7a8042c030e08c3d67ddb3a6640e66f0a3143dfa8fd0cf",
+    "bind_plugin-plugin-build-inputs.json": "e3aefd1c1cf465e31364379beb472231fb2d238809d36ab7f6125f7ff6e877b0",
+    "bind_plugin-plugin-package.mk": "b6a083990326851c50268d00b4878f3dddad824d719125e98b9eb3834ac33617",
     "bind_plugin-resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
     "bind_plugin-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
     "bind_runtime-bind920-profile.json": "2328ec9a1c72aca2dcfc47363c182e57ddde612a2a5f970cfd6c3b24b98de9ad",
@@ -21,13 +21,13 @@
     "bind_runtime-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
     "catalogue-creator-target.json": "5a4622fea2f27dd378c96869fa1ce6b6b9a80f25260e56eadb338d7b93701261",
     "catalogue-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
-    "data.pkg": "472f90aceeb95cb5a09bd022e41041527c4ea190cfa3e80af76c011d6151e23a",
-    "data.tzst": "472f90aceeb95cb5a09bd022e41041527c4ea190cfa3e80af76c011d6151e23a",
+    "data.pkg": "a7d56f1468ec4f09b0c88ad172eeab9fb0a1667e8a3b9a6f286a1276c372a122",
+    "data.tzst": "a7d56f1468ec4f09b0c88ad172eeab9fb0a1667e8a3b9a6f286a1276c372a122",
     "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
     "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
-    "os-bind-rp-26.7_8.pkg": "8d081da1cf2d2b5f8f0b05b8a157364f87597671c4521aecc95ddcacf0387a50",
-    "packagesite.pkg": "3265788e98d2ad61ffc330e37a942b6c69341c48fb983fa399dd22682b94d022",
-    "packagesite.tzst": "3265788e98d2ad61ffc330e37a942b6c69341c48fb983fa399dd22682b94d022",
+    "os-bind-rp-26.7_9.pkg": "929807d44e6a35a9f6584cf5098e5ba73b34cef145ae3b8e5047466bcb0a271e",
+    "packagesite.pkg": "6e5ba42d6c6be9e135645a225c07fccd59bda6383720aded1db663a395b6b03d",
+    "packagesite.tzst": "6e5ba42d6c6be9e135645a225c07fccd59bda6383720aded1db663a395b6b03d",
     "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e"
   },
   "catalogue_creator": {
@@ -47,26 +47,26 @@
   "components": {
     "bind_plugin": {
       "assets": {
-        "build-metadata.txt": "4fc80365b48631aa9ff0f8f17f8f25454bfedf90c3b7cbd8fbaa007c34868827",
-        "channel.json": "2de8cd90d48471e2132c5a940948e6fdb0a4eb52d86783f124b18c3e5fb3f8dd",
+        "build-metadata.txt": "15d5f1ac6d6ce74a0edd5f8d26b1815949e17a5144031df4c341679040b7e7ee",
+        "channel.json": "194dbf68805bd386402614cb45ba58f777a34bf367b618f19f9cef3399d82b54",
         "creator-target.json": "5a4622fea2f27dd378c96869fa1ce6b6b9a80f25260e56eadb338d7b93701261",
-        "data.pkg": "921b89208cfc1e3209ea79f70c478e8f9208027b13cc915ca75daa496f6f968f",
-        "data.tzst": "921b89208cfc1e3209ea79f70c478e8f9208027b13cc915ca75daa496f6f968f",
+        "data.pkg": "7e1b4e8056205c0b4cab08b87b687d1c5e75b91e2590b229ffae986a5e19ff4b",
+        "data.tzst": "7e1b4e8056205c0b4cab08b87b687d1c5e75b91e2590b229ffae986a5e19ff4b",
         "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
         "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
-        "os-bind-rp-26.7_8.pkg": "8d081da1cf2d2b5f8f0b05b8a157364f87597671c4521aecc95ddcacf0387a50",
-        "packagesite.pkg": "564812295da3be63291d02e081cbc879d95e123ef3c10edc1d1087f0ea01b64a",
-        "packagesite.tzst": "564812295da3be63291d02e081cbc879d95e123ef3c10edc1d1087f0ea01b64a",
-        "plugin-build-inputs.json": "b213f37bd6370d76a4470db9016c0a7a416490c5e1526df980fbf17573797917",
-        "plugin-package.mk": "45c603a4f25d0f09ab7a8042c030e08c3d67ddb3a6640e66f0a3143dfa8fd0cf",
+        "os-bind-rp-26.7_9.pkg": "929807d44e6a35a9f6584cf5098e5ba73b34cef145ae3b8e5047466bcb0a271e",
+        "packagesite.pkg": "214ed6f48449eb8b34d111798dbbd362f8604d56abab7775a7a08020d61a764d",
+        "packagesite.tzst": "214ed6f48449eb8b34d111798dbbd362f8604d56abab7775a7a08020d61a764d",
+        "plugin-build-inputs.json": "e3aefd1c1cf465e31364379beb472231fb2d238809d36ab7f6125f7ff6e877b0",
+        "plugin-package.mk": "b6a083990326851c50268d00b4878f3dddad824d719125e98b9eb3834ac33617",
         "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
         "upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2"
       },
       "current_tag": "pkg-26.7-bind-plugin",
       "packages": {
-        "os-bind-rp-26.7_8.pkg": "8d081da1cf2d2b5f8f0b05b8a157364f87597671c4521aecc95ddcacf0387a50"
+        "os-bind-rp-26.7_9.pkg": "929807d44e6a35a9f6584cf5098e5ba73b34cef145ae3b8e5047466bcb0a271e"
       },
-      "snapshot_tag": "pkg-26.7-bind-plugin-26.7_8-61ff7477a9c3ed93d5abfc6519493f71b2d7589ef845cd6868b41c540135e07a"
+      "snapshot_tag": "pkg-26.7-bind-plugin-26.7_9-3dbf057dbc74a7f25bce08a58983ca3416b052966fefcc7ebd06d9bbf2f8c0af"
     },
     "bind_runtime": {
       "assets": {
