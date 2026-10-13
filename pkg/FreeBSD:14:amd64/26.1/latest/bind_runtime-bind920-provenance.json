@@ -1,7 +1,7 @@
 {
   "architecture": "x86_64",
-  "build_recipe_sha256": "230d2e5cf555adaa4230e972dc1757a66a3e800dbb24da0f9cb4174aecfb6ac6",
-  "fingerprint": "23b29a819a4b9b8aced8467f90083aee5ddc5d453e081d85058763ca73cf6479",
+  "build_recipe_sha256": "4a8dd0359b30b9e9098dc4b4c6c2801e8f143551f33be5a329a2e5049a673e8a",
+  "fingerprint": "eff18c3985d49a5c7fb1d7eed803dec059f52022eee13520c9a4bcf656b5a08a",
   "freebsd_release": "14.3",
   "package_creator": {
     "abi": "FreeBSD:14:amd64",
