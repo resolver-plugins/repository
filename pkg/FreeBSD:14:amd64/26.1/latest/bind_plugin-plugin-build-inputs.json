@@ -1,0 +1,14 @@
+{
+  "build_recipe_sha256": "6ac7620d1b50ee1533f42b4ee53c16cbdc74625a2e99aab2449d6f59213b614f",
+  "freebsd_release": "14.3",
+  "package_abi": "FreeBSD:14:amd64",
+  "package_creator": {
+    "abi": "FreeBSD:14:amd64",
+    "name": "pkg",
+    "origin": "ports-mgmt/pkg",
+    "version": "2.3.1_1"
+  },
+  "schema": 1,
+  "series": "26.1",
+  "source_commit": "eb925fc3487767a8263c81137c8c2602e78c2929"
+}

@@ -1,0 +1,49 @@
+{
+  "assets": {
+    "build-metadata.txt": "296e10fb2a89f9ff68307fd348c9b7d28869feca0d6922b9a6aa36d61c9acfb9",
+    "creator-target.json": "62a9c6134be9364d2813e0948fdfbc2a1d19e4ee4a761a06d80fce7b473c49b0",
+    "data.pkg": "aaa114dfc72c1b46708a07b9f8e70180859bc8574b3d1e2da283f072a85f7296",
+    "data.tzst": "aaa114dfc72c1b46708a07b9f8e70180859bc8574b3d1e2da283f072a85f7296",
+    "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "os-bind-rp-26.1_6.pkg": "ebf2d944c114ce397bdb69b865ba7b9c7f4c764667231587d36e5f2c5dd08114",
+    "packagesite.pkg": "95ed27e096f9a59f2fc84a897deea5f2ece6d153b210178ed0e77641331e3712",
+    "packagesite.tzst": "95ed27e096f9a59f2fc84a897deea5f2ece6d153b210178ed0e77641331e3712",
+    "plugin-build-inputs.json": "95fe4529ea3b55d820e70aa0907d3ca5272c884ab1cbdae0c2772bbf070c906d",
+    "plugin-package.mk": "96fbe61ddd78b0ca102f5870e1edbdf8c547ae55557f272951d44d5de5e1ac85",
+    "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
+    "upstream.json": "84eb3b37ddafca530eac92d6f3fcb3d80bdbff105ea4d598bd38f8dfa288861a"
+  },
+  "build_fingerprint": "e5e5a659172d8385be81ad09d743f2211b412322dc89ecc61f03b6d66f46685f",
+  "built_against_runtime": {
+    "fingerprint": "23b29a819a4b9b8aced8467f90083aee5ddc5d453e081d85058763ca73cf6479",
+    "packages": {
+      "bind-tools-9.20.27.pkg": "bc311f4a781a60cedab3cfb055eb6831059c4fbb3e59ebfad43dbad9b248999a",
+      "bind920-9.20.27.pkg": "8557d3a32a2c19be163871c0bad7c1401124b169a2374c98bf911b749365c9f3"
+    },
+    "snapshot_tag": "pkg-26.1-bind-runtime-9.20.27-23b29a819a4b9b8aced8467f90083aee5ddc5d453e081d85058763ca73cf6479",
+    "version": "9.20.27"
+  },
+  "control_commit": "53c2b487cfe65fa4c3fa4bce4720b91b2641e220",
+  "creator_source": {
+    "commit": "a398345f51b79050581e78c5b2dad5094e9a891c",
+    "path": "ports-mgmt/pkg",
+    "release": "26.1.11",
+    "repository": "https://github.com/opnsense/ports.git"
+  },
+  "kind": "bind-plugin",
+  "package_abi": "FreeBSD:14:amd64",
+  "package_creator": {
+    "abi": "FreeBSD:14:amd64",
+    "name": "pkg",
+    "origin": "ports-mgmt/pkg",
+    "version": "2.3.1_1"
+  },
+  "packages": {
+    "os-bind-rp-26.1_6.pkg": "ebf2d944c114ce397bdb69b865ba7b9c7f4c764667231587d36e5f2c5dd08114"
+  },
+  "plugin_version": "26.1_6",
+  "schema": 1,
+  "series": "26.1",
+  "source_commit": "eb925fc3487767a8263c81137c8c2602e78c2929"
+}
