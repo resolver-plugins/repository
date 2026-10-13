@@ -1,0 +1,40 @@
+{
+  "assets": {
+    "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
+    "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
+    "bind920-profile.json": "2d6678b0c17d5f6a359c85fb1f414e4dede6c1350a19002c543be05f65bad990",
+    "bind920-provenance.json": "3c647be9e3a0a27b7e67e349250be9ed985c54f4a8377da0893f772523390616",
+    "creator-target.json": "17f7f45841c0fc69dce9a59caeb363d63d6b1fd0044c37645fd0858b4d8fa876",
+    "data.pkg": "cd00ba7c86bea8cb0cd0bc1af44f942facf2836c2a44ac1e151af7e0982fb354",
+    "data.tzst": "cd00ba7c86bea8cb0cd0bc1af44f942facf2836c2a44ac1e151af7e0982fb354",
+    "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "packagesite.pkg": "7ad4ef689640dfe916af8fc0dc9ca8b33a484266d8d7e2f6474cf6951980a1b0",
+    "packagesite.tzst": "7ad4ef689640dfe916af8fc0dc9ca8b33a484266d8d7e2f6474cf6951980a1b0",
+    "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
+    "upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2"
+  },
+  "build_fingerprint": "e609cb33a4f219fff614af0782e16d573f1bb6d19fb6691a8503418cd99b5fcc",
+  "control_commit": "53c2b487cfe65fa4c3fa4bce4720b91b2641e220",
+  "creator_source": {
+    "commit": "b5a9a4a84eb0d58a71fbcfc7c37bfce9f2a5e1b7",
+    "path": "ports-mgmt/pkg",
+    "release": "26.7.1",
+    "repository": "https://github.com/opnsense/ports.git"
+  },
+  "kind": "bind-runtime",
+  "package_abi": "FreeBSD:15:amd64",
+  "package_creator": {
+    "abi": "FreeBSD:15:amd64",
+    "name": "pkg",
+    "origin": "ports-mgmt/pkg",
+    "version": "2.3.1_1"
+  },
+  "packages": {
+    "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
+    "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e"
+  },
+  "profile_commit": "092318bf55698f0c8ad28db5bbf025854284fc86",
+  "schema": 1,
+  "series": "26.7"
+}

@@ -1,46 +1,100 @@
 {
   "assets": {
-    "bind-bind920-provenance.json": "3c647be9e3a0a27b7e67e349250be9ed985c54f4a8377da0893f772523390616",
-    "bind-build-metadata.txt": "80b18fe3aff3eccd87acbf842d06aa05386b32e9ee9352564ca0b3de65136d15",
-    "bind-channel.json": "703b387dfa3f5c2850d37cdf217f6b2e17874841cd2ee2b90d9b08ae8389ecaa",
     "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
     "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
-    "data.pkg": "c850f3f88423cb657c12fe6fbffcf94252560f9ad1baff23ff8e870b14c2d681",
-    "data.tzst": "c850f3f88423cb657c12fe6fbffcf94252560f9ad1baff23ff8e870b14c2d681",
+    "bind_plugin-build-metadata.txt": "80b18fe3aff3eccd87acbf842d06aa05386b32e9ee9352564ca0b3de65136d15",
+    "bind_plugin-channel.json": "142914c870ff241d7ae5e0672d6b35edb30f9ef7ecc8793329737aeab9d0ca9e",
+    "bind_plugin-creator-target.json": "17f7f45841c0fc69dce9a59caeb363d63d6b1fd0044c37645fd0858b4d8fa876",
+    "bind_plugin-meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "bind_plugin-meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "bind_plugin-plugin-build-inputs.json": "5a22eecc83a9fc18f64b28669aebdc87b32702c30a91583521a93bfd5bebf48e",
+    "bind_plugin-plugin-package.mk": "45c603a4f25d0f09ab7a8042c030e08c3d67ddb3a6640e66f0a3143dfa8fd0cf",
+    "bind_plugin-resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
+    "bind_plugin-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
+    "bind_runtime-bind920-profile.json": "2d6678b0c17d5f6a359c85fb1f414e4dede6c1350a19002c543be05f65bad990",
+    "bind_runtime-bind920-provenance.json": "3c647be9e3a0a27b7e67e349250be9ed985c54f4a8377da0893f772523390616",
+    "bind_runtime-channel.json": "e373321631495f82d5f09d84b2175dd98e0948133a2f2ea4c13757014195a31f",
+    "bind_runtime-creator-target.json": "17f7f45841c0fc69dce9a59caeb363d63d6b1fd0044c37645fd0858b4d8fa876",
+    "bind_runtime-meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "bind_runtime-meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+    "bind_runtime-resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
+    "bind_runtime-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
+    "catalogue-creator-target.json": "5a4622fea2f27dd378c96869fa1ce6b6b9a80f25260e56eadb338d7b93701261",
+    "catalogue-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
+    "data.pkg": "76e81122f83ad9dfec7c07276eb9d49088afe85fcf582a83519747ae7fc4e640",
+    "data.tzst": "76e81122f83ad9dfec7c07276eb9d49088afe85fcf582a83519747ae7fc4e640",
     "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
     "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
     "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029",
-    "packagesite.pkg": "976741f0e10c5941e34a311ccd0d8581f4eb4a913d88392cb91fb772635592a7",
-    "packagesite.tzst": "976741f0e10c5941e34a311ccd0d8581f4eb4a913d88392cb91fb772635592a7",
+    "packagesite.pkg": "e522ccbf7a9c690c83e7ac3563991f02cc297c60510c64b668263d69ce99c0ac",
+    "packagesite.tzst": "e522ccbf7a9c690c83e7ac3563991f02cc297c60510c64b668263d69ce99c0ac",
     "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e"
   },
+  "catalogue_creator": {
+    "creator_source": {
+      "commit": "b5a9a4a84eb0d58a71fbcfc7c37bfce9f2a5e1b7",
+      "path": "ports-mgmt/pkg",
+      "release": "26.7.1",
+      "repository": "https://github.com/opnsense/ports.git"
+    },
+    "package_creator": {
+      "abi": "FreeBSD:15:amd64",
+      "name": "pkg",
+      "origin": "ports-mgmt/pkg",
+      "version": "2.3.1_1"
+    }
+  },
   "components": {
-    "bind": {
+    "bind_plugin": {
       "assets": {
-        "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
-        "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
-        "bind920-provenance.json": "3c647be9e3a0a27b7e67e349250be9ed985c54f4a8377da0893f772523390616",
         "build-metadata.txt": "80b18fe3aff3eccd87acbf842d06aa05386b32e9ee9352564ca0b3de65136d15",
-        "channel.json": "703b387dfa3f5c2850d37cdf217f6b2e17874841cd2ee2b90d9b08ae8389ecaa",
-        "data.pkg": "4258366be4327c2b99856b30eb6c4bf06ec97e53d67c20dc29e4faecaa38eb46",
-        "data.tzst": "4258366be4327c2b99856b30eb6c4bf06ec97e53d67c20dc29e4faecaa38eb46",
+        "channel.json": "142914c870ff241d7ae5e0672d6b35edb30f9ef7ecc8793329737aeab9d0ca9e",
+        "creator-target.json": "17f7f45841c0fc69dce9a59caeb363d63d6b1fd0044c37645fd0858b4d8fa876",
+        "data.pkg": "6f1fcd92e9f489db16de80497c44fc888e9470317a805f1e39f5790940212e28",
+        "data.tzst": "6f1fcd92e9f489db16de80497c44fc888e9470317a805f1e39f5790940212e28",
         "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
         "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
         "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029",
-        "packagesite.pkg": "17707413c333efa8d2b366994c266ca2975f668fd13d30076a060ce1eb90043e",
-        "packagesite.tzst": "17707413c333efa8d2b366994c266ca2975f668fd13d30076a060ce1eb90043e",
-        "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e"
+        "packagesite.pkg": "154a20c2e9d8775616ade61d10c22c65ee09741c076ea33fc38e1ff79eaad60d",
+        "packagesite.tzst": "154a20c2e9d8775616ade61d10c22c65ee09741c076ea33fc38e1ff79eaad60d",
+        "plugin-build-inputs.json": "5a22eecc83a9fc18f64b28669aebdc87b32702c30a91583521a93bfd5bebf48e",
+        "plugin-package.mk": "45c603a4f25d0f09ab7a8042c030e08c3d67ddb3a6640e66f0a3143dfa8fd0cf",
+        "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
+        "upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2"
       },
+      "current_tag": "pkg-26.7-bind-plugin",
       "packages": {
-        "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
-        "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
         "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029"
       },
-      "tag": "pkg-26.7"
+      "snapshot_tag": "pkg-26.7-bind-plugin-26.7_8-914171962edd1e8065a9779f651b86e0393d99e008525c3e486ba272fce3cb16"
+    },
+    "bind_runtime": {
+      "assets": {
+        "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
+        "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
+        "bind920-profile.json": "2d6678b0c17d5f6a359c85fb1f414e4dede6c1350a19002c543be05f65bad990",
+        "bind920-provenance.json": "3c647be9e3a0a27b7e67e349250be9ed985c54f4a8377da0893f772523390616",
+        "channel.json": "e373321631495f82d5f09d84b2175dd98e0948133a2f2ea4c13757014195a31f",
+        "creator-target.json": "17f7f45841c0fc69dce9a59caeb363d63d6b1fd0044c37645fd0858b4d8fa876",
+        "data.pkg": "cd00ba7c86bea8cb0cd0bc1af44f942facf2836c2a44ac1e151af7e0982fb354",
+        "data.tzst": "cd00ba7c86bea8cb0cd0bc1af44f942facf2836c2a44ac1e151af7e0982fb354",
+        "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+        "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
+        "packagesite.pkg": "7ad4ef689640dfe916af8fc0dc9ca8b33a484266d8d7e2f6474cf6951980a1b0",
+        "packagesite.tzst": "7ad4ef689640dfe916af8fc0dc9ca8b33a484266d8d7e2f6474cf6951980a1b0",
+        "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e",
+        "upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2"
+      },
+      "current_tag": "pkg-26.7-bind-runtime",
+      "packages": {
+        "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
+        "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e"
+      },
+      "snapshot_tag": "pkg-26.7-bind-runtime-9.20.27-e609cb33a4f219fff614af0782e16d573f1bb6d19fb6691a8503418cd99b5fcc"
     }
   },
   "kind": "combined",
   "package_abi": "FreeBSD:15:amd64",
-  "schema": 1,
+  "schema": 2,
   "series": "26.7"
 }

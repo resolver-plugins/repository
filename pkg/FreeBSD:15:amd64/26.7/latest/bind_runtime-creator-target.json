@@ -1,0 +1,17 @@
+{
+  "package_creator": {
+    "abi": "FreeBSD:15:amd64",
+    "name": "pkg",
+    "origin": "ports-mgmt/pkg",
+    "version": "2.3.1_1"
+  },
+  "recipe": {
+    "commit": "b5a9a4a84eb0d58a71fbcfc7c37bfce9f2a5e1b7",
+    "path": "ports-mgmt/pkg",
+    "repository": "https://github.com/opnsense/ports.git"
+  },
+  "release": "26.7.1",
+  "role": "creator",
+  "schema": 1,
+  "series": "26.7"
+}
