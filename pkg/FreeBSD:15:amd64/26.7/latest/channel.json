@@ -1,17 +1,17 @@
 {
   "assets": {
     "bind-bind920-provenance.json": "3c647be9e3a0a27b7e67e349250be9ed985c54f4a8377da0893f772523390616",
-    "bind-build-metadata.txt": "fb002086f431931750cdf8219fc816eb9a7af1fdf72af69e9a8d77ba80411dc3",
-    "bind-channel.json": "33fa99573bb2ef7c96d44287e43731bd56d9ee10e6d73e60b08ec52bb7b28c5e",
+    "bind-build-metadata.txt": "80b18fe3aff3eccd87acbf842d06aa05386b32e9ee9352564ca0b3de65136d15",
+    "bind-channel.json": "703b387dfa3f5c2850d37cdf217f6b2e17874841cd2ee2b90d9b08ae8389ecaa",
     "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
     "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
-    "data.pkg": "fcd4057521bcc8c7380a7b5cba8e483bc024e2b196be87bb14284203ade3ae25",
-    "data.tzst": "fcd4057521bcc8c7380a7b5cba8e483bc024e2b196be87bb14284203ade3ae25",
+    "data.pkg": "c850f3f88423cb657c12fe6fbffcf94252560f9ad1baff23ff8e870b14c2d681",
+    "data.tzst": "c850f3f88423cb657c12fe6fbffcf94252560f9ad1baff23ff8e870b14c2d681",
     "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
     "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
-    "os-bind-rp-26.7_7.pkg": "c3d461819f3bc831f0816a484dc541572182bdeb7e0286d6966e8667b2dbb9f1",
-    "packagesite.pkg": "2b3352bf9ecd964812c667ada81601096dffbeabab76a270a20081ad0f44d3cc",
-    "packagesite.tzst": "2b3352bf9ecd964812c667ada81601096dffbeabab76a270a20081ad0f44d3cc",
+    "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029",
+    "packagesite.pkg": "976741f0e10c5941e34a311ccd0d8581f4eb4a913d88392cb91fb772635592a7",
+    "packagesite.tzst": "976741f0e10c5941e34a311ccd0d8581f4eb4a913d88392cb91fb772635592a7",
     "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e"
   },
   "components": {
@@ -20,21 +20,21 @@
         "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
         "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
         "bind920-provenance.json": "3c647be9e3a0a27b7e67e349250be9ed985c54f4a8377da0893f772523390616",
-        "build-metadata.txt": "fb002086f431931750cdf8219fc816eb9a7af1fdf72af69e9a8d77ba80411dc3",
-        "channel.json": "33fa99573bb2ef7c96d44287e43731bd56d9ee10e6d73e60b08ec52bb7b28c5e",
-        "data.pkg": "4c2c50f932456cf81adbd9af28cdeafd042a0c2187f92e4dc1604c2f467b63ec",
-        "data.tzst": "4c2c50f932456cf81adbd9af28cdeafd042a0c2187f92e4dc1604c2f467b63ec",
+        "build-metadata.txt": "80b18fe3aff3eccd87acbf842d06aa05386b32e9ee9352564ca0b3de65136d15",
+        "channel.json": "703b387dfa3f5c2850d37cdf217f6b2e17874841cd2ee2b90d9b08ae8389ecaa",
+        "data.pkg": "4258366be4327c2b99856b30eb6c4bf06ec97e53d67c20dc29e4faecaa38eb46",
+        "data.tzst": "4258366be4327c2b99856b30eb6c4bf06ec97e53d67c20dc29e4faecaa38eb46",
         "meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
         "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
-        "os-bind-rp-26.7_7.pkg": "c3d461819f3bc831f0816a484dc541572182bdeb7e0286d6966e8667b2dbb9f1",
-        "packagesite.pkg": "77b1d46da1caf775d837f68530af2413e959b2381c41b5ee68b1363828fdeade",
-        "packagesite.tzst": "77b1d46da1caf775d837f68530af2413e959b2381c41b5ee68b1363828fdeade",
+        "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029",
+        "packagesite.pkg": "17707413c333efa8d2b366994c266ca2975f668fd13d30076a060ce1eb90043e",
+        "packagesite.tzst": "17707413c333efa8d2b366994c266ca2975f668fd13d30076a060ce1eb90043e",
         "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e"
       },
       "packages": {
         "bind-tools-9.20.27.pkg": "68b78957c50ce83e3a5dce33204702b5a416ca42d0d9ddc38115553d13bc5d09",
         "bind920-9.20.27.pkg": "97ab7c275cd28b6b17f5d732905c7251a089647cc8eaa5243b19aff06015427e",
-        "os-bind-rp-26.7_7.pkg": "c3d461819f3bc831f0816a484dc541572182bdeb7e0286d6966e8667b2dbb9f1"
+        "os-bind-rp-26.7_8.pkg": "c8eb946af9795961dd8b5487102b81a5d8b87ddc54af8ee27c704a03b7758029"
       },
       "tag": "pkg-26.7"
     }
