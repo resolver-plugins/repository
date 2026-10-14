@@ -1,17 +1,17 @@
 {
-  "schema": 1,
-  "role": "creator",
-  "series": "26.1",
-  "release": "26.1.11",
-  "recipe": {
-    "repository": "https://github.com/opnsense/ports.git",
-    "commit": "a398345f51b79050581e78c5b2dad5094e9a891c",
-    "path": "ports-mgmt/pkg"
-  },
   "package_creator": {
+    "abi": "FreeBSD:14:amd64",
     "name": "pkg",
-    "version": "2.3.1_1",
     "origin": "ports-mgmt/pkg",
-    "abi": "FreeBSD:14:amd64"
-  }
+    "version": "2.3.1_1"
+  },
+  "recipe": {
+    "commit": "a398345f51b79050581e78c5b2dad5094e9a891c",
+    "path": "ports-mgmt/pkg",
+    "repository": "https://github.com/opnsense/ports.git"
+  },
+  "release": "26.1.11",
+  "role": "creator",
+  "schema": 1,
+  "series": "26.1"
 }
