@@ -21,8 +21,8 @@
     "bind_runtime-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
     "catalogue-creator-target.json": "5a4622fea2f27dd378c96869fa1ce6b6b9a80f25260e56eadb338d7b93701261",
     "catalogue-upstream.json": "b23f77ec650b476d11920e0b13d697f5092845441f10e06f1f2b9120868b84e2",
-    "data.pkg": "2b2c3d6dfa02905b637780378cbc2ca930e6ba1265cb42687d86d93aa9a8d533",
-    "data.tzst": "2b2c3d6dfa02905b637780378cbc2ca930e6ba1265cb42687d86d93aa9a8d533",
+    "data.pkg": "5216c4d3f5717cb4fd765f612011e55d09b8cbba466949f2b6916a98a869e141",
+    "data.tzst": "5216c4d3f5717cb4fd765f612011e55d09b8cbba466949f2b6916a98a869e141",
     "dhcp-build-metadata.txt": "51bea97d97e68f0128a663f7737d294cdf919c973870132a18d4168bdbe5dffe",
     "dhcp-channel.json": "2b3350892506d78310f60c1d6ddc6e3fb52588bb69b5edf030312a9824f86725",
     "dhcp-meta": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
@@ -33,8 +33,8 @@
     "meta.conf": "cd645a01b39e34e8f099da2756eb6c16cb49de8babb3a3969989e672161469a5",
     "os-bind-rp-26.7_9.pkg": "929807d44e6a35a9f6584cf5098e5ba73b34cef145ae3b8e5047466bcb0a271e",
     "os-dhcp-interface-ha-0.2_45.pkg": "f97b6b226c4d4450986a0d74ba6db7fd84ce8e7ab79fbca5b299963f701bd71b",
-    "packagesite.pkg": "318bbd059ea656a31068913887a1543db5da6df877e7e190f399409952ab1672",
-    "packagesite.tzst": "318bbd059ea656a31068913887a1543db5da6df877e7e190f399409952ab1672",
+    "packagesite.pkg": "f8fd017c6c59b38d15457a77c9d01587c5b2130bc8102bba5e4c7af5c0a71386",
+    "packagesite.tzst": "f8fd017c6c59b38d15457a77c9d01587c5b2130bc8102bba5e4c7af5c0a71386",
     "resolver-plugins.pub": "bd89d6f91807c71f8a744532c9ce2f97e9590f8858ac779bfb2f23c10804e07e"
   },
   "catalogue_creator": {
