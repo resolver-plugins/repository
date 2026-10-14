@@ -1,4 +1,5 @@
 {
+  "build_inputs_sha256": "1e937545dda9768d21b53c3f9cfba862e78780e7269415408ebaccc6d2e272c3",
   "build_recipe_sha256": "ff057f31f6da1b2f22ed27c240ba26349847b7968642b140ad89e46d8270fa1b",
   "freebsd_release": "14.3",
   "package_abi": "FreeBSD:14:amd64",
@@ -8,7 +9,7 @@
     "origin": "ports-mgmt/pkg",
     "version": "2.3.1_1"
   },
-  "schema": 1,
+  "schema": 2,
   "series": "26.1",
   "source_commit": "31b351a4770f38536ba5614dff5f8c3b162ceda6"
 }

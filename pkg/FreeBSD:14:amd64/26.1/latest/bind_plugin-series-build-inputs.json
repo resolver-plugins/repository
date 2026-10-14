@@ -1,0 +1,51 @@
+{
+  "component": "bind_plugin",
+  "environment": {
+    "build_conf_sha256": "fa17cac6d3711fc0fd7c4c51e22c22e0ffd59c34176127b23325f613e215f7df",
+    "core_commit": "8cc69b21e0f4c2622fc8a62df2a15ba7cb1e731f",
+    "freebsd_release": "14.3",
+    "tools_commit": "31820a9d8716ad574b70d9421ac1407b8c088656",
+    "tools_tag": "26.1.11"
+  },
+  "package_targets": {
+    "creator": {
+      "package_creator": {
+        "abi": "FreeBSD:14:amd64",
+        "name": "pkg",
+        "origin": "ports-mgmt/pkg",
+        "version": "2.3.1_1"
+      },
+      "recipe": {
+        "commit": "a398345f51b79050581e78c5b2dad5094e9a891c",
+        "path": "ports-mgmt/pkg",
+        "repository": "https://github.com/opnsense/ports.git"
+      },
+      "release": "26.1.11",
+      "role": "creator",
+      "schema": 1,
+      "series": "26.1"
+    },
+    "reader": {
+      "package_creator": {
+        "abi": "FreeBSD:14:amd64",
+        "name": "pkg",
+        "origin": "ports-mgmt/pkg",
+        "version": "2.3.1_1"
+      },
+      "recipe": {
+        "commit": "a398345f51b79050581e78c5b2dad5094e9a891c",
+        "path": "ports-mgmt/pkg",
+        "repository": "https://github.com/opnsense/ports.git"
+      },
+      "release": "26.1.11",
+      "role": "reader",
+      "schema": 1,
+      "series": "26.1"
+    }
+  },
+  "recipe_sha256": "bb010ef0259702a4259cfa07e73c80b6151a865dfa6cc45d153b271f6beab47e",
+  "runtime_approval": null,
+  "schema": 2,
+  "series": "26.1",
+  "source_sha256": "d616e92e251d5d2407b9a5d7499d695e9d9cd7e2ed834d70b8203f7f565c89fb"
+}
