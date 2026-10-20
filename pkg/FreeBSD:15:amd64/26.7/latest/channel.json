@@ -5,9 +5,9 @@
   "components": {
     "bind_plugin": {
       "current_tag": "pkg-26.7-bind-plugin",
-      "version": "26.7_10",
+      "version": "26.7_11",
       "packages": [
-        "os-bind-rp-26.7_10.pkg"
+        "os-bind-rp-26.7_11.pkg"
       ]
     },
     "bind_runtime": {
