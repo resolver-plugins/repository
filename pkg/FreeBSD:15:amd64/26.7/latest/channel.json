@@ -20,9 +20,9 @@
     },
     "dhcp": {
       "current_tag": "pkg-dhcp-interface-ha-26.7",
-      "version": "26.7_2",
+      "version": "26.7_3",
       "packages": [
-        "os-dhcp-interface-ha-26.7_2.pkg"
+        "os-dhcp-interface-ha-26.7_3.pkg"
       ]
     }
   }
