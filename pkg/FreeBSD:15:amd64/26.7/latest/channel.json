@@ -5,17 +5,9 @@
   "components": {
     "bind_plugin": {
       "current_tag": "pkg-26.7-bind-plugin",
-      "version": "26.7.1.34_1",
+      "version": "26.7.1.34_2",
       "packages": [
-        "os-bind-rp-26.7.1.34_1.pkg"
-      ]
-    },
-    "bind_runtime": {
-      "current_tag": "pkg-26.7-bind-runtime",
-      "version": null,
-      "packages": [
-        "bind-tools-9.20.27.pkg",
-        "bind920-9.20.27.pkg"
+        "os-bind-rp-26.7.1.34_2.pkg"
       ]
     },
     "dhcp": {
